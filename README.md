@@ -1,32 +1,4 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@Ganeshpendam 
-Tahanima
-/
-selenium-test-automation-boilerplate
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-update
- main
-@Tahanima
-Tahanima committed on Mar 10 
-1 parent 8007ec5 commit cac78c2553329f1414fa44198273f727fcf6f731
-Showing 1 changed file with 1 addition and 0 deletions.
-  1  
-README.md
-@@ -1,16 +1,17 @@
+
 # Selenium Test Automation Boilerplate
 Ready-to-use UI Test Automation Architecture using Java and Selenium WebDriver.
 ## Languages and Frameworks
